@@ -1,0 +1,1 @@
+A simple smtp mail protocol script.
