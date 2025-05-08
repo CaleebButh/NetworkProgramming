@@ -1,0 +1,8 @@
+Hello. 
+
+This is a mail make senting to you with python.
+I have attached a photograph of a flower for to your be enjoyment. 
+
+Thank.
+warmest regards, 
+    Docter Bungward. 
